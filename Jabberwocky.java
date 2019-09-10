@@ -2,7 +2,7 @@
 /**First stanza of Jabberwocky
  * Write a description of class Jabberwocky here.
  *
- * @author (mitchell duea)
+ * @author (mitchell Duea)
  * @version (1.0)
  */
 public class Jabberwocky
